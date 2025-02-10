@@ -27,6 +27,7 @@ function NoteList() {
   return (
     <div className="note-list-container">
       <h2 className="title">Your Notes</h2>
+      <h4 style={{fontStyle:"italic",color:"blue"}}>Kindly refresh the page after adding a note to view all the updated notelist</h4>
       {error && <p className="error">{error}</p>}
       {notes.length === 0 ? (
         <p className="no-notes">No notes available.</p>
