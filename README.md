@@ -8,7 +8,7 @@
 ✅ View all notes in a card-based layout  
 ✅ Delete existing notes with a single click  
 ✅ Minimalist UI with simple CSS styling  
-✅ Validates the required fields title, category, textcontent.
+✅ Validates the required fields title, category, textcontent
 ✅ Each note should have a delete button to remove it
 
 
