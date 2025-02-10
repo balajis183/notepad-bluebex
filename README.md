@@ -8,7 +8,7 @@
 ✅ View all notes in a card-based layout  
 ✅ Delete existing notes with a single click  
 ✅ Minimalist UI with simple CSS styling  
-✅ Validates the required fields title, category, textcontent
+✅ Validates the required fields title, category, textcontent <br>
 ✅ Each note should have a delete button to remove it
 
 
@@ -18,7 +18,7 @@
 - **Node.js** with **Express.js**  
 - Simple in-memory storage (No database for simplicity)
 - ⚠ **Note:** This project does **not** use local storage or a database. Since the backend stores notes in an in-memory array, all data will be lost when the server restarts.
-
+- ⚠⚠⚠⚠⚠⚠ Most imporantly refresh the page the see the updated the Note list as i have given both accepting and displaying the note list in the same page. ⚠⚠⚠⚠⚠⚠
 
 ### Frontend:  
 - **React.js** (Functional components with hooks)  
