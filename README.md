@@ -18,7 +18,7 @@
 - **Node.js** with **Express.js**  
 - Simple in-memory storage (No database for simplicity)
 - ⚠ **Note:** This project does **not** use local storage or a database. Since the backend stores notes in an in-memory array, all data will be lost when the server restarts.
-- ⚠⚠⚠⚠⚠⚠ Most imporantly refresh the page the see the updated the Note list as i have given both accepting and displaying the note list in the same page. ⚠⚠⚠⚠⚠⚠
+- ⚠⚠⚠ Most imporantly refresh the page the see the updated the Note list as i have given both accepting and displaying the note list in the same page. 
 
 ### Frontend:  
 - **React.js** (Functional components with hooks)  
